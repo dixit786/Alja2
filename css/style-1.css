@@ -677,6 +677,7 @@ p{
 }
 .work-image{
     position: relative;
+    margin: 10px;
 }
 .overlay {
     position: absolute;
